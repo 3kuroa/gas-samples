@@ -1,2 +1,2 @@
-# my-gas-samples
+# my-apps-script-samples
 Google Apps Script
